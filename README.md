@@ -70,7 +70,7 @@ void yyerror(const char *msg) {
 
 ```
 # Output
-![image](https://github.com/user-attachments/assets/83ee76fa-a2e2-40c0-b2f9-d56634cbdf14)
+![image](https://github.com/user-attachments/assets/d99efd0e-c73e-4907-b026-211ac3573af5)
 
 
 # Result
